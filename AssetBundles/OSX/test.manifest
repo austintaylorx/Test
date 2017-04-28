@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3645867460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08a89a73592b283573954c4d7061ace2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e948e635e33c295d0e46e09fc3bb7a84
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Spritess/New Sprite.prefab
+Dependencies:
+- /Users/austintaylor/Documents/Test/AssetBundleTesting/AssetBundleTesting/AssetBundles/OSX/icon.box
